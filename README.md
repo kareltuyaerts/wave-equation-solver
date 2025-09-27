@@ -1,6 +1,6 @@
 # Wave Equation Solver
 
-*Computational Physics Project - Advanced Numerical Methods*
+*Scientific Software Project*
 
 ## Project Overview
 
