@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-A comprehensive implementation of multiple numerical methods for solving the wave equation in time domain. This project explores different discretization schemes, stability analysis, and parallel computing approaches for solving hyperbolic partial differential equations.
+A comprehensive implementation of multiple numerical methods for solving the wave equation in time domain. This project explores PDE discretization, stability analysis and code optimization for solving hyperbolic partial differential equations.
 
 ## Mathematical Background
 
@@ -26,7 +26,7 @@ Multiple simple numerical methods were implemented such as forward Euler, Heun a
 - **Linear Algebra** - Custom sparse matrix operations
 - **Visualization** - Data output for post-processing and animation
 
-## Relevant Skills
+### Relevant Skills
 
 - **Numerical Analysis**: PDE discretization methods
 - **C++ Programming**: Efficient scientific computing implementation
